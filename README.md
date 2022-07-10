@@ -1,4 +1,6 @@
-![](https://raw.githubusercontent.com/irontec/android-kotlin-samples/master/logo.png)
+![download](https://user-images.githubusercontent.com/43173854/178141808-c3b47921-2c3f-4cb3-bfee-011fd8082d5b.jpg)
+
+
 # Ricardo R - Kit3tsu
 
 Welcome to my github profile
