@@ -15,8 +15,8 @@ A simple version of connect the book
 
 ## What's next
 
-- [] fix the issue in connect the book app
-- [] make a simple tournemant organisation app
+- [ ] fix the issue in connect the book app
+- [ ] make a simple tournemant organisation app
 
 ## Languages
 
