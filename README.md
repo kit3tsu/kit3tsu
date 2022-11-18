@@ -2,8 +2,8 @@
 
 # Ricardo R - Kit3tsu
 
-Hello I am a Junior Developer
-I learn the basics of computer programming in High School
+Hello I am a Junior Developer </br>
+I learnd the basics of computer programming in Graduate School
 
 ## 🌱 I’m currently 
  - Exploring software craft
@@ -16,7 +16,7 @@ I learn the basics of computer programming in High School
 
 ## What's next
 
-- [ ] Fix the issue in Connect The Book app
+- [ ] Fix the issue in *Connect The Book* app
 - [ ] Make a simple tournament organisation app
 
 ## Languages
