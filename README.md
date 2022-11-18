@@ -2,21 +2,22 @@
 
 # Ricardo R - Kit3tsu
 
-Welcome to my github profile
+Hello I am a Junior Developer
+I learn the basics of computer programming in High School
 
 ## 🌱 I’m currently 
- - exploring software carft
- - getting used to kotlin syntaxe
- - expanding my jetpack compose knowledge
+ - Exploring software craft
+ - Getting used to Kotlin syntaxe
+ - Expanding my Jetpack Compose knowledge
 
 ## 🔭 I’m currently working on 
 
-A simple version of connect the book
+[A simple version of *Connect The Book*](https://github.com/kit3tsu/Connect-The-Books)
 
 ## What's next
 
-- [ ] fix the issue in connect the book app
-- [ ] make a simple tournemant organisation app
+- [ ] Fix the issue in Connect The Book app
+- [ ] Make a simple tournament organisation app
 
 ## Languages
 
